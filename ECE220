@@ -1,1 +1,8 @@
 For the function in C language
+you should pay attention 
+  int a;
+  int b;
+  int *value_ptr_a;
+  int *value_ptr_b;
+
+  value_ptr_b = &a;
